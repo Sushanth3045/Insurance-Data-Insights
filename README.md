@@ -1,3 +1,4 @@
+# Insurance-Data-Insights
 📌 Overview
 
 The Insurance Analytics Dashboard is an end-to-end data analytics project designed to transform raw insurance data into meaningful, actionable insights.
