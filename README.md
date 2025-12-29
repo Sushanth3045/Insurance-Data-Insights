@@ -34,12 +34,10 @@ The dashboard includes the following core KPIs:
 1.Total Target Amount
 2.Total Achieved Amount
 3.Total Invoice Value
-
 4.Target vs Achieved vs New Business
  Cross-Sell
  New Business
  Renewal
-
 5.Stage-wise Revenue Funnel
 6.Count of Opportunities
 7.Count of Policies
